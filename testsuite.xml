@@ -6,7 +6,7 @@
 	
 		<listener class-name="com.utils.TakeScreenshotListner" />
 	
-		<listener class-name="com.utils.RetryFailedTestsListner" />
+	<!--	<listener class-name="com.utils.RetryFailedTestsListner" /> -->
 		
 	</listeners>
 
